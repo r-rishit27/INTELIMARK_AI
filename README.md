@@ -1,4 +1,4 @@
-# INTELIMARK_AI
+
 # Store Sales Prediction
 
 This repository contains the solution to a sales prediction problem for a retail store. The goal is to predict the sales (`Item_Outlet_Sales`) of items in various outlets based on various features, such as item characteristics, outlet information, and item visibility. The solution uses data preprocessing, feature engineering, correlation analysis, and machine learning models to accurately predict the sales.
@@ -62,4 +62,8 @@ To set up the environment, use the following commands:
    ```bash
    git clone https://github.com/yourusername/store-sales-prediction.git
    cd store-sales-prediction
+2. Install Requiements:
+     ```bash
+     pip install -r requirements.txt
+
 
